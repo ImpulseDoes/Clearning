@@ -1,0 +1,1 @@
+This is my learning C journey as a git repo
