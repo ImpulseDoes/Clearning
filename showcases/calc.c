@@ -49,6 +49,9 @@ int main() {
             printf("Pow: %d ^ %.0lf = %.2lf", x, y, z);
             break;
         }
+        default: {
+            printf("Choose something that actually displays on ur screen dump fck bitch");
+        }
     }
 
     // in theory, I could do the prinf here, but I wanna to show
