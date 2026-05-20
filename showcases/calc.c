@@ -40,6 +40,10 @@ int main() {
             break;
         }
         case '/': {
+            if (x == 0 || y == 0) {
+                printf("You cant devide by 0");
+                return 0;
+            }
             z = x / y;
             printf("Dev: %d / %.0lf = %.2lf", x, y, z);
             break;
