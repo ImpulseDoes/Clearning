@@ -51,5 +51,9 @@ int main() {
         }
     }
 
+    // in theory, I could do the prinf here, but I wanna to show
+    // the method, so like power, addition etc, but I could do
+    // z = pow(x, y) and then print everything at the end
+
     return 0;
 }
